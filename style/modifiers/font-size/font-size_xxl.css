@@ -1,0 +1,21 @@
+.font-size_xxl {
+    font-size: 96px;
+}
+
+@media screen and (max-device-width: 750px){
+    .font-size_xxl {
+        font-size: 65px;
+    }
+}
+
+@media screen and (max-device-width: 480px){
+    .font-size_xxl {
+        font-size: 52px;
+    }
+}
+
+@media screen and (max-device-width: 430px){
+    .font-size_xxl {
+        font-size: 40px;
+    }
+}
