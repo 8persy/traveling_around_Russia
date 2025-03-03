@@ -11,11 +11,26 @@
 @import "lead/__img/lead__img.css";
 @import "lead/__caption/lead__caption.css";
 
+/*styles for intro*/
+@import "intro/intro.css";
+@import "intro/__title/intro__title.css";
+@import "intro/__text/intro__text.css";
+@import "intro/__list/intro__list.css";
+
 /*modifiers*/
+
+/*fonts*/
 @import "modifiers/font-size/font-size_xxl.css";
+@import "modifiers/font-size/font-size_xl.css";
 @import "modifiers/font-size/font-size_l.css";
 @import "modifiers/font-size/font-size_m.css";
+@import "modifiers/font-size/font-size_s.css";
 @import "modifiers/font-size/font-size__xs.css";
+@import "modifiers/font-size/font-size_list.css";
+
+@import "modifiers/font-weight/font-weight_bold.css";
+@import "modifiers/font-weight/font-weight_extra-bold.css";
+@import "modifiers/font-weight/font-weight_normal.css";
 
 .page {
     padding: 0;

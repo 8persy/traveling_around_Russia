@@ -1,0 +1,12 @@
+.intro__text {
+    width: 690px;
+    margin: 0;
+    padding-bottom: 33px;
+    line-height: 163%;
+}
+
+@media screen and (max-device-width: 768px) {
+    .intro__text {
+        width: 100%;
+    }
+}

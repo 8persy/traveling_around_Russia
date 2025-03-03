@@ -1,0 +1,19 @@
+.intro__title {
+    width: 690px;
+    text-align: left;
+    padding-bottom: 40px;
+    margin: 0;
+    line-height: 58px;
+}
+
+@media screen and (max-device-width: 768px) {
+    .intro__title {
+        width: 100%;
+    }
+}
+
+@media screen and (max-device-width: 430px) {
+    .intro__title {
+        line-height: 35px;
+    }
+}
