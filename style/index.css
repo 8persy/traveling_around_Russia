@@ -1,0 +1,16 @@
+/*styles for header*/
+@import "header/header.css";
+@import "header/__logo/header__logo.css";
+@import "header/__link/header__link_en.css";
+@import "header/__link/header__link_ru.css";
+
+/*modifiers*/
+@import "modifiers/font-size/font-size_m.css";
+
+.page {
+    padding: 0;
+    margin: 0 auto;
+    background-color: #2A2C2F;
+    font-family: "inter", sans-serif;
+    font-variation-settings: 'wght' 400, 'slnt' 0;
+}

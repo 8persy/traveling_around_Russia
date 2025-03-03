@@ -1,0 +1,22 @@
+.header {
+    padding-top: 28px;
+    padding-bottom: 56px;
+    height: 52px;
+    width: 92%;
+    margin: 0 auto;
+    display: flex;
+    color: white;
+}
+
+@media screen and (max-device-width: 1024px) {
+    .header {
+        padding-bottom: 48px;
+    }
+}
+
+@media screen and (max-device-width: 435px) {
+    .header {
+        height: 42px;
+        padding-top: 16px;
+    }
+}
