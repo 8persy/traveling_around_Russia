@@ -17,8 +17,11 @@
 @import "intro/__text/intro__text.css";
 @import "intro/__list/intro__list.css";
 
-/*modifiers*/
+/*styles for photo*/
+@import "photo/photo.css";
+@import "photo/__item/photo__item.css";
 
+/* --modifiers-- */
 /*fonts*/
 @import "modifiers/font-size/font-size_xxl.css";
 @import "modifiers/font-size/font-size_xl.css";

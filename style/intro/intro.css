@@ -5,6 +5,7 @@
     max-width: 77%;
     margin: 0 auto;
     gap: 0;
+    padding-bottom: 92px;
 }
 
 @media screen and (max-device-width: 1024px) {
@@ -16,11 +17,13 @@
 @media screen and (max-device-width: 768px) {
     .intro {
         max-width: 94%;
+        padding-bottom: 88px;
     }
 }
 
 @media screen and (max-device-width: 430px) {
     .intro {
         max-width: 90%;
+        padding-bottom: 64px;
     }
 }
