@@ -1,0 +1,15 @@
+.place__text {
+    grid-area: text;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    justify-content: start;
+}
+
+@media screen and (max-device-width: 430px) {
+    .place__text {
+        width: calc(100vw - 32px);
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}

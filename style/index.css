@@ -21,6 +21,17 @@
 @import "photo/photo.css";
 @import "photo/__item/photo__item.css";
 
+/*styles for place*/
+@import "place/place.css";
+@import "place/__card/place__card.css";
+@import "place/__title/place__title.css";
+@import "place/__img/place__img.css";
+@import "place/__web/place__web.css";
+@import "place/__url/place__url.css";
+@import "place/__link/place__link.css";
+@import "place/__text/place__text.css";
+@import "place/__paragraph/place__paragraph.css";
+
 /* --modifiers-- */
 /*fonts*/
 @import "modifiers/font-size/font-size_xxl.css";
@@ -30,6 +41,7 @@
 @import "modifiers/font-size/font-size_s.css";
 @import "modifiers/font-size/font-size__xs.css";
 @import "modifiers/font-size/font-size_list.css";
+@import "modifiers/font-size/font-size_place-title.css";
 
 @import "modifiers/font-weight/font-weight_bold.css";
 @import "modifiers/font-weight/font-weight_extra-bold.css";

@@ -1,0 +1,14 @@
+.place__url {
+    grid-area: url;
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2px;
+    color: #AAA;
+}
+
+@media screen and (max-device-width: 430px) {
+    .place__url {
+    }
+}
