@@ -40,6 +40,12 @@
 @import "cover/__img/cover__img.css";
 @import "cover/__overlay/cover__overlay.css";
 
+/*styles for footer*/
+@import "footer/footer.css";
+@import "footer/__links/footer__links.css";
+@import "footer/__link/footer__link.css";
+@import "footer/__copyright/footer__copyright.css";
+
 /* --modifiers-- */
 /*fonts*/
 @import "modifiers/font-size/font-size_xxl.css";
