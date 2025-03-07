@@ -32,6 +32,14 @@
 @import "place/__text/place__text.css";
 @import "place/__paragraph/place__paragraph.css";
 
+/*styles for cover*/
+@import "cover/cover.css";
+@import "cover/__content/cover__content.css";
+@import "cover/__title/cover__title.css";
+@import "cover/__subtitle/cover__subtitle.css";
+@import "cover/__img/cover__img.css";
+@import "cover/__overlay/cover__overlay.css";
+
 /* --modifiers-- */
 /*fonts*/
 @import "modifiers/font-size/font-size_xxl.css";
