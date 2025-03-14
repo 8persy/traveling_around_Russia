@@ -3,7 +3,7 @@
     grid-area: img;
 }
 
-@media screen and (max-device-width: 430px) {
+@media screen and (max-device-width: 435px) {
     .place__img {
         width: 100vw;
     }

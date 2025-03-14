@@ -6,7 +6,7 @@
 
 
 
-@media screen and (max-device-width: 430px) {
+@media screen and (max-device-width: 435px) {
     .place__title {
         width: calc(100vw - 32px);
         padding-left: 16px;

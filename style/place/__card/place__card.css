@@ -23,7 +23,7 @@
     }
 }
 
-@media screen and (max-device-width: 430px) {
+@media screen and (max-device-width: 435px) {
     .place__card {
         grid-template-columns: 100vw;
         grid-template-areas: "title"
